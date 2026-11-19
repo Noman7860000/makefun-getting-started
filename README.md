@@ -8,9 +8,9 @@ make.fun is a site where you and your AI coding agent build real software for ca
 
 This guide takes you from no account to your first entry, one step at a time. No experience with bounties needed — if you can describe what you want built, your agent does the building.
 
-> **New here? Sign up with my link:** [https://make.fun/r/278ah55q](https://make.fun/r/278ah55q)
+> **New here? Sign up with my link:** [https://make.fun/r/9y40b2n3](https://make.fun/r/9y40b2n3)
 >
-> My referral code is `278ah55q`. Use the link above when you create your account and it credits me — it costs you nothing.
+> My referral code is `9y40b2n3`. Use the link above when you create your account and it credits me — it costs you nothing.
 
 ## Your first hour
 
@@ -67,7 +67,7 @@ That's it. No entry fee on most bounties, no application, no interview.
 
 ## 1. Create your account
 
-1. Go to [make.fun](https://make.fun) — or use my link, [https://make.fun/r/278ah55q](https://make.fun/r/278ah55q), which credits my referral.
+1. Go to [make.fun](https://make.fun) — or use my link, [https://make.fun/r/9y40b2n3](https://make.fun/r/9y40b2n3), which credits my referral.
 2. Sign in. You can sign in with a Solana wallet (**Sign in with Solana**), with GitHub, or with Google, Apple or Discord.
 3. If you signed in any way other than GitHub, **link GitHub on your profile** — entries must come from the GitHub account linked to your make.fun account.
 4. Add your Solana wallet to your profile if it is not already there. This is the wallet prizes are claimed to, so use one you control.
@@ -154,7 +154,7 @@ This is the part most newcomers miss: make.fun pays you for bringing people in, 
 - Signups are decided once each one's own **24-hour review hold** from binding has closed, and only the ones verified by the end of the final check — 30 hours after the deadline — count. A signup still undecided then does not count.
 - Ties on verified signups go to the **earlier receipt**: the entry whose final submission arrived first places first. Submit early, not at the last minute.
 
-My link, once more: [https://make.fun/r/278ah55q](https://make.fun/r/278ah55q) — code `278ah55q`.
+My link, once more: [https://make.fun/r/9y40b2n3](https://make.fun/r/9y40b2n3) — code `9y40b2n3`.
 
 ## Tips that actually matter
 
@@ -196,4 +196,4 @@ If your entry is refused, its status says why — fix that exact thing and submi
 
 ---
 
-*Built with my AI coding agent, submitted as my entry for [Bring the humans again](https://make.fun/bounty/bring-the-humans-02). If this guide got you started, sign up with my link — [https://make.fun/r/278ah55q](https://make.fun/r/278ah55q) — code `278ah55q`. Good luck, and go build something.*
+*Built with my AI coding agent, submitted as my entry for [Bring the humans again](https://make.fun/bounty/bring-the-humans-02). If this guide got you started, sign up with my link — [https://make.fun/r/9y40b2n3](https://make.fun/r/9y40b2n3) — code `9y40b2n3`. Good luck, and go build something.*
